@@ -1,0 +1,14 @@
+{
+  "name": "react-use-click-outside",
+  "version": "1.0.0",
+  "description": "Package that provides a React hook to help you handle clicks outside containers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolás Oleinizak",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
